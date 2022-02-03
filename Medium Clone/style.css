@@ -1,0 +1,45 @@
+
+.bg-orange{
+    background-color: rgb(253, 193, 53)
+}
+
+.bg-whitesmoke{
+    background-color: whitesmoke;
+}
+
+.black-border{
+    border-bottom: 1px solid #222222;
+}
+
+.btn{
+    border-radius: 30px;
+    padding: 10px 20px 10px;
+}
+
+h1, p{
+    font-family: 'Source Serif 4', sans-serif;
+}
+
+#navbar{
+    margin: 0px; 
+    padding: 0px;
+}
+
+#padding10{
+    padding:10px;
+}
+
+#content1{
+    position: relative;
+    padding: 40px; 
+}
+
+#img99{
+    height: 400px; 
+    padding-top: 50px;
+}
+
+#content1-xs{
+    position: relative;
+    padding: 40px; 
+}
