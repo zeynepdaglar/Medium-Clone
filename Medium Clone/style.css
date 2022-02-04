@@ -53,6 +53,6 @@
     font-size: 10px;
 }
 
-ul > li{
-    color: rgba(0, 0, 0, 0.459);
+ul > li, p{
+    color: rgba(0, 0, 0, 0.568);
 }
