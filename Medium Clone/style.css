@@ -17,6 +17,10 @@
     padding: 10px 20px 10px;
 }
 
+.btn-r{
+    border-radius: 30px;
+}
+
 .fs-serif{
     font-family: 'Source Serif 4', sans-serif;
 }
@@ -43,6 +47,10 @@
 #content1-xs{
     position: relative;
     padding: 40px; 
+}
+
+.fa-star{
+    font-size: 10px;
 }
 
 ul > li{
