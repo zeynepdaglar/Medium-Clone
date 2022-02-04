@@ -12,11 +12,12 @@
 }
 
 .btn{
+    font-size: 13px;
     border-radius: 30px;
     padding: 10px 20px 10px;
 }
 
-h1, p{
+.fs-serif{
     font-family: 'Source Serif 4', sans-serif;
 }
 
