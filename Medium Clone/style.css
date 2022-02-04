@@ -44,3 +44,7 @@
     position: relative;
     padding: 40px; 
 }
+
+ul > li{
+    color: rgba(0, 0, 0, 0.459);
+}
